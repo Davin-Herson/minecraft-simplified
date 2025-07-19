@@ -8,6 +8,7 @@ public class ExampleClass {
         Console.WriteLine("Message..."); 
     {
 }
+
 public class Program {
     public static void Main(string[] args) {
         // Method calls...
