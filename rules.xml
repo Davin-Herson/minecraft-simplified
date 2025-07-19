@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Repository name="minecraft-simplfied" id="minecraftsimplified">
+    <github wurl="https://github.com/Davin-Herson/minecraft-simplified/new/main">
+        <address files="csharp, java, javascript, typescript, python">
+            The address of files in the repository.
+        </address>
+        <files-encoding>
+            UTF-8
+        </files-encoding>
+    </github>
+    <content>
+        <csharp dotnet-version="9.0" csc="activated" options="default, allow-unsafe" />
+        <java jvm="ready" jit="activated" options="default" />
+        <javascript platform="node" engine="V8" options="default"/>
+        <typescript tsc="activated" options="default" tsconfig="tsconfig.json"/>
+        <python version="3.13.3"/>
+    </content>
+</Repository>
+        
