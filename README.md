@@ -12,12 +12,7 @@ public class ExampleClass {
 public class Program {
     public static void Main(string[] args) {
         // Method calls...
-        /**<summary>
-          *This is a Minecraft game
-          *</summary>
-          */
         ExampleClass.Method();
-        /// <summary>Hello :)</summary>
     }
 }
 ```
@@ -33,10 +28,6 @@ public class Example {
 public class Main {
     public static void main(String[] args) {
         Example.say();
-        /**
-          * @param MinecraftGame
-          *
-          */
     }
 }
 ```
