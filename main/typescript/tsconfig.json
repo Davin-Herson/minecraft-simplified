@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "commonjs",
+        "strict": false,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "outDir": "./dist",
+        "rootDir": "https://github.com/Davin-Herson/",
+        "noImplicitAny": false,
+        "strictNullChecks": false,
+        "resolveJsonModule": true,
+        "moduleResolution": "node",
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "githubIntegration": true
+    },
+    "include": ["https://github.com/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+}
