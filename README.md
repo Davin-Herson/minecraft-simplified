@@ -1,5 +1,5 @@
 # Minecraft game
-This cam made with C# like this
+This can made with C# like this
 ```csharp
 using System;
 
@@ -31,3 +31,4 @@ public class Main {
     }
 }
 ```
+# THIS IS JUST FOR FUN!!!
