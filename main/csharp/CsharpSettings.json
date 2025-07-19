@@ -1,0 +1,14 @@
+{
+    "useDll": true,
+    "jit": true,
+    "assign": true,
+    "allowUnusedVariables": true,
+    "rootDir": "*github-repository/main/csharp",
+    "getSet": true,
+    "aot": true
+    "allowUnsafe": true,
+    "fpsLimit": "unlimited",
+    "maxMemoryAllocation": 32767,
+    "maxThreadsSize": 32767,
+    "using": ".NET Framework 4.8.1 (64-BIT)"
+}
