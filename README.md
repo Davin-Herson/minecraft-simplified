@@ -12,7 +12,7 @@ public class ExampleClass {
 public class Program {
     public static void Main(string[] args) {
         // Method calls...
-        /**<summary>
+        /*<summary>
           *This is a Minecraft game
           *</summary>
           */
