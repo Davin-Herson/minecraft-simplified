@@ -17,6 +17,7 @@ public class Program {
           *</summary>
           */
         ExampleClass.Method();
+        /// <summary>Hello :)</summary>
     }
 }
 ```
