@@ -1,4 +1,4 @@
-# File MAZE game
+# MINECRAFT
 This can made with C# like this
 ```csharp
 using System;
