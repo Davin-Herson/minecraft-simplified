@@ -6,7 +6,7 @@ using System;
 public class ExampleClass {
     public static void Method() {
         Console.WriteLine("Message..."); 
-    {
+    }
 }
 
 public class Program {
